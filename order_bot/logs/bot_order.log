@@ -1,0 +1,625 @@
+2025-12-05 16:16:20 | INFO     | OrderBot | ==================================================
+2025-12-05 16:16:20 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 16:16:20 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 16:16:20 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 16:16:20 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 16:16:20 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 16:16:20 | INFO     | OrderBot | ==================================================
+2025-12-05 16:16:20 | ERROR    | OrderBot | Error in main: Improper token has been passed.
+2025-12-05 16:25:52 | INFO     | OrderBot | ==================================================
+2025-12-05 16:25:52 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 16:25:52 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 16:25:52 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 16:25:52 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 16:25:52 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 16:25:52 | INFO     | OrderBot | ==================================================
+2025-12-05 16:25:53 | ERROR    | OrderBot | Failed to create PostgreSQL pool: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:25:53 | ERROR    | OrderBot | Error in init_database: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:25:53 | ERROR    | OrderBot | Error in database_init: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:25:53 | ERROR    | OrderBot | Error in main: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:44:54 | INFO     | OrderBot | ==================================================
+2025-12-05 16:44:54 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 16:44:54 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 16:44:54 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 16:44:54 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 16:44:54 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 16:44:54 | INFO     | OrderBot | ==================================================
+2025-12-05 16:44:55 | ERROR    | OrderBot | Failed to create PostgreSQL pool: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:44:55 | ERROR    | OrderBot | Error in init_database: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:44:55 | ERROR    | OrderBot | Error in database_init: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:44:55 | ERROR    | OrderBot | Error in main: connection to server at "db.xqkfaygibzdrwkrsgwpk.supabase.co" (2406:da1a:6b0:f60f:65e4:e1e2:c0da:ef6), port 5432 failed: Network is unreachable
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-12-05 16:47:55 | INFO     | OrderBot | ==================================================
+2025-12-05 16:47:55 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 16:47:55 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 16:47:55 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 16:47:55 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 16:47:55 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 16:47:55 | INFO     | OrderBot | ==================================================
+2025-12-05 16:47:57 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 16:47:57 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 16:47:57 | INFO     | OrderBot | Database initialized
+2025-12-05 16:47:57 | ERROR    | OrderBot | Error in load_admin_commands: Extension 'admin_commands' raised an error: ImportError: cannot import name 'PBKDF2' from 'cryptography.hazmat.primitives.kdf.pbkdf2' (/usr/local/python/3.12.1/lib/python3.12/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py)
+2025-12-05 16:47:58 | INFO     | OrderBot | Slash commands synced
+2025-12-05 16:48:00 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 16:48:00 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 16:51:56 | INFO     | OrderBot | ==================================================
+2025-12-05 16:51:56 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 16:51:56 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 16:51:56 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 16:51:56 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 16:51:56 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 16:51:56 | INFO     | OrderBot | ==================================================
+2025-12-05 16:51:57 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 16:51:57 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 16:51:57 | INFO     | OrderBot | Database initialized
+2025-12-05 16:51:57 | INFO     | OrderBot | Admin commands loaded
+2025-12-05 16:51:58 | INFO     | OrderBot | Slash commands synced
+2025-12-05 16:52:00 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 16:52:00 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 16:53:57 | WARNING  | OrderBot | Database error, retry 1/5
+2025-12-05 16:53:57 | ERROR    | OrderBot | Error in get_balance: generator didn't stop after throw() | user_id=1384584067319730226
+2025-12-05 16:59:34 | INFO     | OrderBot | ==================================================
+2025-12-05 16:59:34 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 16:59:34 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 16:59:34 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 16:59:34 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 16:59:34 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 16:59:34 | INFO     | OrderBot | ==================================================
+2025-12-05 16:59:35 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 16:59:35 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 16:59:35 | INFO     | OrderBot | Database initialized
+2025-12-05 16:59:35 | INFO     | OrderBot | Admin commands loaded
+2025-12-05 16:59:35 | INFO     | OrderBot | Slash commands synced
+2025-12-05 16:59:38 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 16:59:38 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:01:46 | INFO     | OrderBot | ==================================================
+2025-12-05 17:01:46 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 17:01:46 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 17:01:46 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 17:01:46 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 17:01:46 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 17:01:46 | INFO     | OrderBot | ==================================================
+2025-12-05 17:01:47 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 17:01:47 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 17:01:47 | INFO     | OrderBot | Database initialized
+2025-12-05 17:01:47 | INFO     | OrderBot | Admin commands loaded
+2025-12-05 17:01:48 | INFO     | OrderBot | Slash commands synced
+2025-12-05 17:01:50 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 17:01:50 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:05:24 | INFO     | OrderBot | ==================================================
+2025-12-05 17:05:24 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 17:05:24 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 17:05:24 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 17:05:24 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 17:05:24 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 17:05:24 | INFO     | OrderBot | ==================================================
+2025-12-05 17:05:25 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 17:05:25 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 17:05:25 | INFO     | OrderBot | Database initialized
+2025-12-05 17:05:25 | INFO     | OrderBot | Admin commands loaded
+2025-12-05 17:05:26 | INFO     | OrderBot | Slash commands synced
+2025-12-05 17:05:29 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 17:05:29 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:09:56 | INFO     | OrderBot | ==================================================
+2025-12-05 17:09:56 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 17:09:56 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 17:09:56 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 17:09:56 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 17:09:56 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 17:09:56 | INFO     | OrderBot | ==================================================
+2025-12-05 17:09:56 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 17:09:57 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 17:09:57 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 17:09:57 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 17:09:57 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 17:09:57 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 17:09:57 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 17:09:57 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 17:09:57 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 17:10:00 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 17:10:00 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:10:42 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 17:10:42 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205171022 | Status: success | Amount: Rp 1,000,000
+2025-12-05 17:10:42 | ERROR    | OrderBot | Error in handle_payment_success: create_topup() got an unexpected keyword argument 'payment_type' | order_id=TOPUP-1384584067319730226-20251205171022
+2025-12-05 17:14:49 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 17:14:49 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205171022 | Status: success | Amount: Rp 10,000
+2025-12-05 17:14:50 | ERROR    | OrderBot | Error in handle_payment_success: create_topup() got an unexpected keyword argument 'payment_type' | order_id=TOPUP-1384584067319730226-20251205171022
+2025-12-05 17:15:00 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:18:27 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 17:18:27 | INFO     | OrderBot | 📥 Webhook: TOPUP-123456789-20251205171827 | Status: success | Amount: Rp 15,000
+2025-12-05 17:18:27 | ERROR    | OrderBot | Error in handle_payment_success: create_topup() got an unexpected keyword argument 'payment_type' | order_id=TOPUP-123456789-20251205171827
+2025-12-05 17:20:00 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:37:01 | INFO     | OrderBot | ==================================================
+2025-12-05 17:37:01 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 17:37:01 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 17:37:01 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 17:37:01 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 17:37:01 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 17:37:01 | INFO     | OrderBot | ==================================================
+2025-12-05 17:37:01 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 17:37:02 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 17:37:02 | INFO     | OrderBot | ✅ PostgreSQL tables verified
+2025-12-05 17:37:02 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 17:37:02 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 17:37:02 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 17:37:02 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 17:37:02 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 17:37:02 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 17:37:05 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 17:37:05 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:37:58 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 17:37:58 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205173721 | Status: success | Amount: Rp 15,000
+2025-12-05 17:37:58 | WARNING  | OrderBot | Database error, retry 1/5
+2025-12-05 17:37:59 | ERROR    | OrderBot | Error in create_topup: generator didn't stop after throw() | user_id=1384584067319730226
+2025-12-05 17:37:59 | WARNING  | OrderBot | Database error, retry 1/5
+2025-12-05 17:37:59 | ERROR    | OrderBot | Error in add_balance: generator didn't stop after throw() | user_id=1384584067319730226
+2025-12-05 17:37:59 | ERROR    | OrderBot | Error in handle_payment_success: generator didn't stop after throw() | order_id=TOPUP-1384584067319730226-20251205173721
+2025-12-05 17:42:05 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:45:35 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 17:45:35 | INFO     | OrderBot | ==================================================
+2025-12-05 17:45:35 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 17:45:35 | INFO     | OrderBot | ==================================================
+2025-12-05 17:47:25 | INFO     | OrderBot | ==================================================
+2025-12-05 17:47:25 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 17:47:25 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 17:47:25 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 17:47:25 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 17:47:25 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 17:47:25 | INFO     | OrderBot | ==================================================
+2025-12-05 17:47:25 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 17:47:26 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 17:47:27 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 17:47:27 | INFO     | OrderBot | Database initialized
+2025-12-05 17:47:27 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 17:47:27 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 17:47:27 | ERROR    | OrderBot | Error in load_admin_commands: Extension 'admin_commands' raised an error: ImportError: cannot import name 'get_order_by_number' from 'database' (/workspaces/bot-order/order_bot/database.py)
+2025-12-05 17:47:27 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 17:47:27 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 17:47:27 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 17:47:30 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 17:47:30 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:50:40 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 17:50:40 | INFO     | OrderBot | 📥 Webhook: TOPUP-1234567890123456789-20251205175039 | Status: success | Amount: Rp 10,000
+2025-12-05 17:50:40 | ERROR    | OrderBot | Error creating topup: column "transaction_id" of relation "topups" does not exist
+LINE 4:                         bot_source, payment_type, transactio...
+                                                          ^
+
+2025-12-05 17:50:40 | ERROR    | OrderBot | Error in add_balance: log_balance_updated() takes 4 positional arguments but 5 were given | user_id=1234567890123456789, amount=10000
+2025-12-05 17:50:40 | ERROR    | OrderBot | ❌ Failed to credit balance: User 1234567890123456789
+2025-12-05 17:50:40 | ERROR    | OrderBot | Error in update_topup_status: column "completed_at" does not exist
+LINE 4: ... 'failed' = 'success' THEN CURRENT_TIMESTAMP ELSE completed_...
+                                                             ^
+ | order_id=TOPUP-1234567890123456789-20251205175039
+2025-12-05 17:52:30 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:58:25 | INFO     | OrderBot | ==================================================
+2025-12-05 17:58:25 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 17:58:25 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 17:58:25 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 17:58:25 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 17:58:25 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 17:58:25 | INFO     | OrderBot | ==================================================
+2025-12-05 17:58:25 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 17:58:27 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 17:58:27 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 17:58:27 | INFO     | OrderBot | Database initialized
+2025-12-05 17:58:27 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 17:58:27 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 17:58:27 | ERROR    | OrderBot | Error in load_admin_commands: Extension 'admin_commands' raised an error: ImportError: cannot import name 'get_order_by_number' from 'database' (/workspaces/bot-order/order_bot/database.py)
+2025-12-05 17:58:27 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 17:58:27 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 17:58:28 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 17:58:30 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 17:58:31 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 17:58:40 | ERROR    | OrderBot | Error in get_user_stats: column "total_orders" does not exist
+LINE 2:                     SELECT balance, total_orders, total_spen...
+                                            ^
+ | user_id=1384584067319730226
+2025-12-05 17:59:40 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 17:59:40 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205175859 | Status: success | Amount: Rp 10,000
+2025-12-05 17:59:41 | ERROR    | OrderBot | Error creating topup: column "transaction_id" of relation "topups" does not exist
+LINE 4:                         bot_source, payment_type, transactio...
+                                                          ^
+
+2025-12-05 17:59:41 | ERROR    | OrderBot | Error in add_balance: log_balance_updated() takes 4 positional arguments but 5 were given | user_id=1384584067319730226, amount=10000
+2025-12-05 17:59:41 | ERROR    | OrderBot | ❌ Failed to credit balance: User 1384584067319730226
+2025-12-05 17:59:41 | ERROR    | OrderBot | Error in update_topup_status: column "completed_at" does not exist
+LINE 4: ... 'failed' = 'success' THEN CURRENT_TIMESTAMP ELSE completed_...
+                                                             ^
+ | order_id=TOPUP-1384584067319730226-20251205175859
+2025-12-05 18:03:31 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:03:43 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:03:43 | INFO     | OrderBot | ==================================================
+2025-12-05 18:03:43 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:03:43 | INFO     | OrderBot | ==================================================
+2025-12-05 18:03:45 | INFO     | OrderBot | ==================================================
+2025-12-05 18:03:45 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:03:45 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:03:45 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:03:45 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:03:45 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:03:45 | INFO     | OrderBot | ==================================================
+2025-12-05 18:03:45 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:03:46 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:03:47 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:03:47 | INFO     | OrderBot | Database initialized
+2025-12-05 18:03:47 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:03:47 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:03:47 | ERROR    | OrderBot | Error in load_admin_commands: Extension 'admin_commands' raised an error: ImportError: cannot import name 'get_database_stats' from 'database' (/workspaces/bot-order/order_bot/database.py)
+2025-12-05 18:03:47 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:03:47 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:03:47 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:03:50 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:03:50 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:05:36 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:05:36 | INFO     | OrderBot | ==================================================
+2025-12-05 18:05:36 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:05:36 | INFO     | OrderBot | ==================================================
+2025-12-05 18:05:37 | INFO     | OrderBot | ==================================================
+2025-12-05 18:05:37 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:05:37 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:05:37 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:05:37 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:05:37 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:05:37 | INFO     | OrderBot | ==================================================
+2025-12-05 18:05:37 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:05:38 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:05:38 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:05:38 | INFO     | OrderBot | Database initialized
+2025-12-05 18:05:38 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:05:38 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:05:38 | ERROR    | OrderBot | Error in load_admin_commands: Extension 'admin_commands' raised an error: ImportError: cannot import name 'get_database_stats' from 'database' (/workspaces/bot-order/order_bot/database.py)
+2025-12-05 18:05:38 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:05:38 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:05:39 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:05:42 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:05:42 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:07:58 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:07:58 | INFO     | OrderBot | ==================================================
+2025-12-05 18:07:58 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:07:58 | INFO     | OrderBot | ==================================================
+2025-12-05 18:08:03 | INFO     | OrderBot | ==================================================
+2025-12-05 18:08:03 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:08:03 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:08:03 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:08:03 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:08:03 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:08:03 | INFO     | OrderBot | ==================================================
+2025-12-05 18:08:03 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:08:05 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:08:05 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:08:05 | INFO     | OrderBot | Database initialized
+2025-12-05 18:08:05 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:08:05 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:08:05 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:08:05 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:08:05 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:08:05 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:08:08 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:08:08 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:09:19 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 18:09:19 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205180855 | Status: success | Amount: Rp 10,000
+2025-12-05 18:09:19 | INFO     | OrderBot | Topup created: ID=1, User=1384584067319730226, Amount=Rp 10,000
+2025-12-05 18:09:20 | INFO     | OrderBot | 💳 Balance Updated
+2025-12-05 18:09:20 | INFO     | OrderBot | 💰 Payment Received
+2025-12-05 18:09:20 | INFO     | OrderBot | ✅ Balance credited: User 1384584067319730226 | +Rp 10,000 | New balance: Rp 10,000
+2025-12-05 18:09:20 | INFO     | OrderBot | 💬 User 1384584067319730226 should be notified of payment success
+2025-12-05 18:11:13 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 18:11:13 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205180855 | Status: success | Amount: Rp 10,000
+2025-12-05 18:11:13 | WARNING  | OrderBot | ⚠️ Payment already processed: TOPUP-1384584067319730226-20251205180855
+2025-12-05 18:11:42 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 18:11:42 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205181102 | Status: success | Amount: Rp 10,000
+2025-12-05 18:11:43 | INFO     | OrderBot | Topup created: ID=2, User=1384584067319730226, Amount=Rp 10,000
+2025-12-05 18:11:43 | INFO     | OrderBot | 💳 Balance Updated
+2025-12-05 18:11:43 | INFO     | OrderBot | 💰 Payment Received
+2025-12-05 18:11:43 | INFO     | OrderBot | ✅ Balance credited: User 1384584067319730226 | +Rp 10,000 | New balance: Rp 20,000
+2025-12-05 18:11:43 | INFO     | OrderBot | 💬 User 1384584067319730226 should be notified of payment success
+2025-12-05 18:12:11 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 1: SELECT COUNT(*) FROM stock_codes WHERE status = 'available'
+                             ^
+
+2025-12-05 18:13:08 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:16:30 | ERROR    | OrderBot | Error in add_single_code: add_stock_code() got an unexpected keyword argument 'code'
+2025-12-05 18:16:30 | ERROR    | OrderBot | Error in add_single_code: add_stock_code() got an unexpected keyword argument 'code'
+2025-12-05 18:16:30 | INFO     | OrderBot | 📥 Stock Added
+2025-12-05 18:16:30 | WARNING  | OrderBot | Failed to add 2/2 codes
+2025-12-05 18:16:30 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 2:                         SELECT COUNT(*) FROM stock_codes 
+                                                     ^
+
+2025-12-05 18:16:30 | WARNING  | OrderBot | ⚠️ Low Stock Alert
+2025-12-05 18:16:30 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 1: SELECT COUNT(*) FROM stock_codes WHERE status = 'available'
+                             ^
+
+2025-12-05 18:16:31 | INFO     | OrderBot | 👨‍💼 Admin Action
+2025-12-05 18:16:31 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 2:                         SELECT COUNT(*) FROM stock_codes 
+                                                     ^
+
+2025-12-05 18:16:31 | WARNING  | OrderBot | ⚠️ Low Stock Alert
+2025-12-05 18:18:08 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:30:41 | INFO     | OrderBot | ==================================================
+2025-12-05 18:30:41 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:30:41 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:30:41 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:30:41 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:30:41 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:30:41 | INFO     | OrderBot | ==================================================
+2025-12-05 18:30:41 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:30:43 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:30:43 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:30:43 | INFO     | OrderBot | Database initialized
+2025-12-05 18:30:43 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:30:43 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:30:43 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:30:43 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:30:43 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:30:43 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:30:46 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:30:46 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:31:08 | ERROR    | OrderBot | Error in add_single_code: add_stock_code() got an unexpected keyword argument 'code'
+2025-12-05 18:31:08 | ERROR    | OrderBot | Error in add_single_code: add_stock_code() got an unexpected keyword argument 'code'
+2025-12-05 18:31:08 | INFO     | OrderBot | 📥 Stock Added
+2025-12-05 18:31:08 | WARNING  | OrderBot | Failed to add 2/2 codes
+2025-12-05 18:31:08 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 2:                         SELECT COUNT(*) FROM stock_codes 
+                                                     ^
+
+2025-12-05 18:31:08 | WARNING  | OrderBot | ⚠️ Low Stock Alert
+2025-12-05 18:31:09 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 1: SELECT COUNT(*) FROM stock_codes WHERE status = 'available'
+                             ^
+
+2025-12-05 18:31:09 | INFO     | OrderBot | 👨‍💼 Admin Action
+2025-12-05 18:31:09 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 2:                         SELECT COUNT(*) FROM stock_codes 
+                                                     ^
+
+2025-12-05 18:31:09 | WARNING  | OrderBot | ⚠️ Low Stock Alert
+2025-12-05 18:35:46 | ERROR    | OrderBot | Error in process_pending_orders: connection already closed
+2025-12-05 18:50:27 | INFO     | OrderBot | ==================================================
+2025-12-05 18:50:27 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:50:27 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:50:27 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:50:27 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:50:27 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:50:27 | INFO     | OrderBot | ==================================================
+2025-12-05 18:50:27 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:50:29 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:50:29 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:50:29 | INFO     | OrderBot | Database initialized
+2025-12-05 18:50:29 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:50:29 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:50:29 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:50:29 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:50:29 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:50:29 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:50:32 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:50:32 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:52:17 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:52:17 | INFO     | OrderBot | ==================================================
+2025-12-05 18:52:17 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:52:17 | INFO     | OrderBot | ==================================================
+2025-12-05 18:52:22 | INFO     | OrderBot | ==================================================
+2025-12-05 18:52:22 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:52:22 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:52:22 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:52:22 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:52:22 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:52:22 | INFO     | OrderBot | ==================================================
+2025-12-05 18:52:22 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:52:23 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:52:23 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:52:23 | INFO     | OrderBot | Database initialized
+2025-12-05 18:52:23 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:52:23 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:52:23 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:52:23 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:52:23 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:52:24 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:52:27 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:52:27 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:55:33 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:55:33 | INFO     | OrderBot | ==================================================
+2025-12-05 18:55:33 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:55:33 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:01 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:01 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:56:01 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:56:01 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:56:01 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:56:01 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:56:01 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:01 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:56:02 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:56:02 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:56:02 | INFO     | OrderBot | Database initialized
+2025-12-05 18:56:02 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:56:02 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:56:03 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:56:03 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:56:03 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:56:03 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:56:06 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:56:06 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:56:11 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:56:11 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:11 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:56:11 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:27 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:27 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:56:27 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:56:27 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:56:27 | INFO     | OrderBot | Webhook Port: 8001
+2025-12-05 18:56:27 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:56:27 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:27 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:56:28 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:56:28 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:56:28 | INFO     | OrderBot | Database initialized
+2025-12-05 18:56:28 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:56:28 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:56:28 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:56:28 | INFO     | OrderBot | 🔔 Starting webhook server on port 8001...
+2025-12-05 18:56:28 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8001
+2025-12-05 18:56:32 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:56:32 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:32 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:56:32 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:48 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:48 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:56:48 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:56:48 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:56:48 | INFO     | OrderBot | Webhook Port: 8002
+2025-12-05 18:56:48 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:56:48 | INFO     | OrderBot | ==================================================
+2025-12-05 18:56:48 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:56:49 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:56:49 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:56:50 | INFO     | OrderBot | Database initialized
+2025-12-05 18:56:50 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:56:50 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:56:50 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:56:50 | INFO     | OrderBot | 🔔 Starting webhook server on port 8002...
+2025-12-05 18:56:50 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8002
+2025-12-05 18:57:09 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:57:09 | INFO     | OrderBot | ==================================================
+2025-12-05 18:57:09 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:57:09 | INFO     | OrderBot | ==================================================
+2025-12-05 18:57:10 | INFO     | OrderBot | ==================================================
+2025-12-05 18:57:10 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:57:10 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:57:10 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:57:10 | INFO     | OrderBot | Webhook Port: 8002
+2025-12-05 18:57:10 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:57:10 | INFO     | OrderBot | ==================================================
+2025-12-05 18:57:10 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:57:11 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:57:12 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:57:12 | INFO     | OrderBot | Database initialized
+2025-12-05 18:57:12 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:57:12 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:57:12 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:57:12 | INFO     | OrderBot | 🔔 Starting webhook server on port 8002...
+2025-12-05 18:57:12 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8002
+2025-12-05 18:57:31 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 18:57:31 | INFO     | OrderBot | ==================================================
+2025-12-05 18:57:31 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 18:57:31 | INFO     | OrderBot | ==================================================
+2025-12-05 18:59:17 | INFO     | OrderBot | ==================================================
+2025-12-05 18:59:17 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 18:59:17 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 18:59:17 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 18:59:17 | INFO     | OrderBot | Webhook Port: 8002
+2025-12-05 18:59:17 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 18:59:17 | INFO     | OrderBot | ==================================================
+2025-12-05 18:59:17 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 18:59:18 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 18:59:18 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 18:59:18 | INFO     | OrderBot | Database initialized
+2025-12-05 18:59:18 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 18:59:18 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 18:59:19 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 18:59:19 | INFO     | OrderBot | 🔔 Starting webhook server on port 8002...
+2025-12-05 18:59:19 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8002
+2025-12-05 18:59:19 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 18:59:22 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 18:59:22 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 18:59:42 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 1: SELECT COUNT(*) FROM stock_codes WHERE status = 'available'
+                             ^
+
+2025-12-05 19:00:30 | INFO     | OrderBot | 🔔 Webhook Received
+2025-12-05 19:00:30 | INFO     | OrderBot | 📥 Webhook: TOPUP-1384584067319730226-20251205185950 | Status: success | Amount: Rp 10,000
+2025-12-05 19:00:31 | INFO     | OrderBot | Topup created: ID=3, User=1384584067319730226, Amount=Rp 10,000
+2025-12-05 19:00:31 | INFO     | OrderBot | 💳 Balance Updated
+2025-12-05 19:00:31 | INFO     | OrderBot | 💰 Payment Received
+2025-12-05 19:00:31 | INFO     | OrderBot | ✅ Balance credited: User 1384584067319730226 | +Rp 10,000 | New balance: Rp 30,000
+2025-12-05 19:00:31 | INFO     | OrderBot | 💬 User 1384584067319730226 should be notified of payment success
+2025-12-05 19:02:35 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 1: SELECT COUNT(*) FROM stock_codes WHERE status = 'available'
+                             ^
+
+2025-12-05 19:03:43 | INFO     | OrderBot | 💳 Balance Updated
+2025-12-05 19:03:43 | INFO     | OrderBot | 👨‍💼 Admin Action
+2025-12-05 19:04:04 | ERROR    | OrderBot | Error in admin_checkuser: 'completed_orders' | admin=1384584067319730226
+2025-12-05 19:04:22 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 19:05:35 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 19:05:35 | INFO     | OrderBot | ==================================================
+2025-12-05 19:05:35 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 19:05:35 | INFO     | OrderBot | ==================================================
+2025-12-05 19:05:39 | INFO     | OrderBot | ==================================================
+2025-12-05 19:05:39 | INFO     | OrderBot | 🚀 Discord Order Bot Starting...
+2025-12-05 19:05:39 | INFO     | OrderBot | Environment: 🟡 SANDBOX
+2025-12-05 19:05:39 | INFO     | OrderBot | Database: POSTGRESQL
+2025-12-05 19:05:39 | INFO     | OrderBot | Webhook Port: 8002
+2025-12-05 19:05:39 | INFO     | OrderBot | Auto Delivery: ✅ Enabled
+2025-12-05 19:05:39 | INFO     | OrderBot | ==================================================
+2025-12-05 19:05:39 | INFO     | OrderBot | 🔔 Webhook server will start automatically...
+2025-12-05 19:05:40 | INFO     | OrderBot | ✅ PostgreSQL connection pool created
+2025-12-05 19:05:40 | WARNING  | OrderBot | ⚠️ Some tables missing. Please run shared_db_schema.sql
+2025-12-05 19:05:40 | INFO     | OrderBot | Database initialized
+2025-12-05 19:05:40 | INFO     | OrderBot | ✅ Database initialized
+2025-12-05 19:05:40 | INFO     | OrderBot | ✅ Webhook server thread started
+2025-12-05 19:05:40 | INFO     | OrderBot | ✅ Admin commands loaded
+2025-12-05 19:05:40 | INFO     | OrderBot | 🔔 Starting webhook server on port 8002...
+2025-12-05 19:05:40 | INFO     | OrderBot | 🌐 Webhook server starting on 0.0.0.0:8002
+2025-12-05 19:05:41 | INFO     | OrderBot | ✅ Slash commands synced
+2025-12-05 19:05:44 | INFO     | OrderBot | ✅ Bot Ready: RCI Order Bot#7479
+2025-12-05 19:05:44 | INFO     | OrderBot | Bulk processing: 0 orders (0 success, 0 failed)
+2025-12-05 19:06:10 | ERROR    | OrderBot | Error in add_single_code: add_stock_code() got an unexpected keyword argument 'code'
+2025-12-05 19:06:10 | ERROR    | OrderBot | Error in add_single_code: add_stock_code() got an unexpected keyword argument 'code'
+2025-12-05 19:06:10 | INFO     | OrderBot | 📥 Stock Added
+2025-12-05 19:06:10 | WARNING  | OrderBot | Failed to add 2/2 codes
+2025-12-05 19:06:10 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 2:                         SELECT COUNT(*) FROM stock_codes 
+                                                     ^
+
+2025-12-05 19:06:10 | WARNING  | OrderBot | ⚠️ Low Stock Alert
+2025-12-05 19:06:10 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 1: SELECT COUNT(*) FROM stock_codes WHERE status = 'available'
+                             ^
+
+2025-12-05 19:06:11 | INFO     | OrderBot | 👨‍💼 Admin Action
+2025-12-05 19:06:11 | ERROR    | OrderBot | Error in get_available_stock_count: relation "stock_codes" does not exist
+LINE 2:                         SELECT COUNT(*) FROM stock_codes 
+                                                     ^
+
+2025-12-05 19:06:11 | WARNING  | OrderBot | ⚠️ Low Stock Alert
+2025-12-05 19:07:54 | ERROR    | OrderBot | Error in get_database_stats: relation "stock_codes" does not exist
+LINE 3:                     FROM stock_codes
+                                 ^
+
+2025-12-05 19:07:54 | ERROR    | OrderBot | Error in admin_botstats: 'total_balance' | admin=1384584067319730226
+2025-12-05 19:08:58 | INFO     | OrderBot | 
+🛑 Shutdown signal received...
+2025-12-05 19:08:58 | INFO     | OrderBot | ==================================================
+2025-12-05 19:08:58 | INFO     | OrderBot | 🛑 Discord Order Bot Shutting Down...
+2025-12-05 19:08:58 | INFO     | OrderBot | ==================================================
